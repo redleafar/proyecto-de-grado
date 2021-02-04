@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d8303f-4ebd-4fb8-add7-e8c250c05489" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1o1fHMugfDXw9wfsdOH9M2XHFwg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LongMethodDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongMethodDetector" />
+      <module name="proyecto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongMethodDetector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d8303f-4ebd-4fb8-add7-e8c250c05489" name="Default Changelist" comment="" />
+      <created>1612458928327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612458928327</updated>
+      <workItem from="1612458929915" duration="7876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="218" key="#Project_Structure" timestamp="1612459920875">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="218" key="#Project_Structure/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612459920875" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1612479563557">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1612475902909" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612479563557" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1612479563556">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1612475902908" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612479563556" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1612479563555">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1612475902908" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612479563555" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1612479563557">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="290" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1612475902909" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612479563557" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1612478662787">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612478662787" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1612478662786">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612478662786" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1612478662785">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612478662785" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1612478662786">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612478662786" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1612460524444">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1612460524444" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongMethodDetector.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongMethodDetector.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
